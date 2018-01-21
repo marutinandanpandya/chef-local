@@ -1,6 +1,6 @@
 #
 # Cookbook Name:: base-server
-# Recipe:: development
+# Recipe:: advance-development
 #
 # Copyright 2018, Maruti Nandan Pandya
 #
@@ -8,9 +8,5 @@
 #
 
 
-# install rvn
-# install ruby {list}
-# install gems as default
-# install chefdk
-
-
+# install docker
+# install vagrant
