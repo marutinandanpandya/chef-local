@@ -8,9 +8,13 @@
 #
 
 
-# install rvn
-# install ruby {list}
-# install gems as default
-# install chefdk
+
+
+# install rvm
+# install ruby 2.1.3, 2.1.4, 2.2
+# install gems as needed -bundler, hirb, brakeman, rubocop
+# install chef development kit
+# install test-kitchen & knife settings
+# install aws-cli and configure with keys
 
 
